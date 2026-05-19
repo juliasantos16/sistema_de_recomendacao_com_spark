@@ -9,7 +9,7 @@ Depois dessa análise inicial, utilizei PCA para identificar a quantidade ideal 
 Essa etapa foi essencial para reduzir a complexidade dos dados sem perder qualidade, deixando o algoritmo K-Means mais eficiente e melhorando significativamente a precisão das recomendações geradas pelo sistema.
 
 
-###  Algoritmos e Técnicas de Data Science:
+###  Algoritmos e Técnicas:
 Standard Scaler: Aplicado no pipeline para padronizar os dados e garantir que todas as features musicais ficassem na mesma escala  
 
 PCA (Principal Component Analysis): Utilizado para a redução de dimensionalidade dos dados.  
