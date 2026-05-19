@@ -18,4 +18,4 @@ K-Means: Algoritmo de clusterização onde foi criado os agrupamentos de música
 
 Distância Euclidiana: Técnica matemática implementada para calcular a distância entre a música de referência do usuário e as demais faixas do mesmo cluster, permitindo retornar o top 10 de músicas mais próximas
 
-https://developer.spotify.com/dashboard/login
+link para obter a API do spotify: https://developer.spotify.com/dashboard/login
