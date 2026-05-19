@@ -1,4 +1,4 @@
-# sistema_de_recomendacao_com_spark
+# Sistema de recomendacao com Spark
 
 Nesse projeto, desenvolvi um sistema de recomendação de músicas usando Spark, unindo análise de dados, machine learning e integração com a API do Spotify. A ideia era criar algo parecido com os sistemas de recomendação das plataformas de streaming, capaz de encontrar músicas semelhantes com base nas características sonoras de cada faixa.
 
