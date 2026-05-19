@@ -17,3 +17,5 @@ PCA (Principal Component Analysis): Utilizado para a redução de dimensionalida
 K-Means: Algoritmo de clusterização onde foi criado os agrupamentos de músicas baseados em suas características  
 
 Distância Euclidiana: Técnica matemática implementada para calcular a distância entre a música de referência do usuário e as demais faixas do mesmo cluster, permitindo retornar o top 10 de músicas mais próximas
+
+https://developer.spotify.com/dashboard/login
