@@ -10,7 +10,10 @@ Essa etapa foi essencial para reduzir a complexidade dos dados sem perder qualid
 
 
 ###  Algoritmos e Técnicas de Data Science:
-Standard Scaler: Aplicado no pipeline para padronizar os dados e garantir que todas as features musicais ficassem na mesma escala
-PCA (Principal Component Analysis): Utilizado para a redução de dimensionalidade dos dados. 
-K-Means: Algoritmo de clusterização onde foi criado os agrupamentos de músicas baseados em suas características
+Standard Scaler: Aplicado no pipeline para padronizar os dados e garantir que todas as features musicais ficassem na mesma escala  
+
+PCA (Principal Component Analysis): Utilizado para a redução de dimensionalidade dos dados.  
+
+K-Means: Algoritmo de clusterização onde foi criado os agrupamentos de músicas baseados em suas características  
+
 Distância Euclidiana: Técnica matemática implementada para calcular a distância entre a música de referência do usuário e as demais faixas do mesmo cluster, permitindo retornar o top 10 de músicas mais próximas
